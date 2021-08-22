@@ -1,0 +1,26 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "better-scroll": "^2.4.1",
+    "js-md5": "^0.7.3",
+    "lib-flexible": "^0.3.2",
+    "postcss-plugin-px2rem": "^0.8.1",
+    "swiper": "^3.4.2",
+    "vant": "^3.0.0-beta.5",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10",
+    "vuex": "^4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "px2rem-loader": "^0.1.9",
+    "vite": "^2.3.8"
+  }
+}
